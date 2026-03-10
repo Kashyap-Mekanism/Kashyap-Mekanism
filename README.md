@@ -8,11 +8,11 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Mid-Level+Full+Stack+Developer;MERN+Stack+Engineer;NestJS+Backend+Specialist;Scalable+API+Builder" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Mid-Level+Full+Stack+Developer;MERN+Stack+Engineer;Nest.js+Backend+Developer;Scalable+API+Builder" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KashyapPokar&label=Profile%20Views&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Kashyap-Mekanism&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
 ---
@@ -28,6 +28,10 @@
 ---
 
 ## 🧠 Tech Stack
+
+<p align="center">
+  <img src="./banner.svg"/>
+</p>
 
 ### 🌐 Frontend (MERN)
 
@@ -75,19 +79,17 @@
 
 ## 📊 GitHub Stats & Activity
 
+<!-- Contribution Table -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kashyap-mekanism&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KashyapPokar&theme=tokyonight&hide_border=true" height="170"/>
-
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=kashyap-mekanism&show_icons=true&theme=tokyonight&hide_border=true" height="170"/> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kashyap-Mekanism&theme=dracula&hide_border=true" height="200"/>
 </p>
 
+<!-- Contribution Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KashyapPokar&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kashyap-Mekanism&theme=dracula"/>
 </p>
 
-<p align="center">
-  <img src="./banner.svg"/>
-</p>
 ---
 
 ## 🌐 Let’s Connect
@@ -97,8 +99,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
   
+  
   <a href="mailto:kashyap120354@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge"/>
   </a>
 </p>
 

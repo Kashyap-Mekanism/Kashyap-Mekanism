@@ -76,14 +76,18 @@
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KashyapPokar&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kashyap-mekanism&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KashyapPokar&theme=tokyonight&hide_border=true" height="170"/>
+
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KashyapPokar&theme=tokyo-night&hide_border=true"/>
 </p>
 
+<p align="center">
+  <img src="./banner.svg"/>
+</p>
 ---
 
 ## 🌐 Let’s Connect
@@ -92,19 +96,10 @@
   <a href="https://www.linkedin.com/in/kashyap-patel-940037294/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
+  
   <a href="mailto:kashyap120354@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
 ---
-
-## 💼 Recruiter Note
-
-✅ **Mid-Level Full Stack Developer**  
-🌍 Open to **Remote / Hybrid / On-site** roles  
-🚀 Ready to contribute from day one
-
-<p align="center">
-  ⭐️ If you like what you see, let’s build something impactful together!
-</p>
